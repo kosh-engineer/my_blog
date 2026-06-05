@@ -5,3 +5,18 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    border-bottom: 2px solid lightgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
